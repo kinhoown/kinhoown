@@ -1,16 +1,16 @@
-### Hi there 👋
+## Faaaala dev, Luigi Aqui!
 
-<!--
-**kinhoown/kinhoown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=kinhoown&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinhoown&layout=compact&langs_count=16&theme=rose_pine"/>
+</div>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+  
+ 
+</div>
+  
+![Snake animation](https://github.com/kinhoown/kinhoown/blob/output/github-contribution-grid-snake.svg)
