@@ -5,7 +5,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kinhoown&show_icons=true&count_private=true&hide_border=true&title_color=EBE567&icon_color=EBE567&text_color=3BA0EB&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kinhoown&show_icons=true&count_private=true&hide_border=true&title_color=EBE567&icon_color=EBE567&text_color=3BA0EB&bg_color=0d1117" alt="Erick Alexandre Pessoa de Lima" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinhoown&layout=compact&hide_border=true&title_color=EBE567&text_color=3BA0EB&bg_color=0d1117" />
 </div>
 
